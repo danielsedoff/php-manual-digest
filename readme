@@ -1,0 +1,8 @@
+php-manual-digest
+
+This PHP program takes a one-file PHP manual for input
+and outputs a digested version, that is, only the title
+and the overview. The output file is 50 times smaller
+and is useful either as a quick reference or as an index.
+
+Put php_manual_en.html into the same directory before running.
